@@ -1,0 +1,15 @@
+This project is based on the publication:
+
+Chayu Yang, Jin Wang. "A mathematical model for the novel coronavirus epidemic in Wuhan, China", Mathematical Biosciences and Engineering, 2020, 17(3): 2708-2724. doi: 10.3934/mbe.2020148.
+
+This article is available here:
+https://www.aimspress.com/fileOther/PDF/MBE/mbe-17-03-148.pdf
+
+
+In this work, a SEIRV model was applied to the spread of the Corona virus in Wuhan. 
+I took this example to learn about how to solve sets of differential equations with python. 
+The differential equations have been solved using two different python libraries: 
+scipy.integrate and gekko, 
+both obviously yielding the same results. 
+
+Two files containing simple examples of both libraries are also provided. 
